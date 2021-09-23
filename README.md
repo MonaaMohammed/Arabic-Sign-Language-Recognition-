@@ -77,7 +77,7 @@ Explain the following in detail:
 this link of live demo
 "https://drive.google.com/file/d/1vXQqmfkNBL8b96hZ6zv-8D2892Pexeur/view?usp=sharing"
 ## Steps of setup the software 
-## 1. clone this Steps
+## 1. clone this repository
 ## 2.Create a new virtual environment 
 python -m venv aslr
 ## 3.Activate your virtual environment
