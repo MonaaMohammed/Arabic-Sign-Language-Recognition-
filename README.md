@@ -77,16 +77,16 @@ Explain the following in detail:
 this link of live demo
 "https://drive.google.com/file/d/1vXQqmfkNBL8b96hZ6zv-8D2892Pexeur/view?usp=sharing"
 ## Steps of setup the software 
-## 1. clone this repository
+## 1. clone this repository https://github.com/MonaaMohammed/Arabic-Sign-Language-Recognition-/blob/main/signs_detection.ipynb
 ## 2.Create a new virtual environment 
 python -m venv aslr
 ## 3.Activate your virtual environment
-source tfod/bin/activate # Linux
-.\tfod\Scripts\activate # Windows
+.\aslr\Scripts\activate # Windows
 ## Step 4. Install dependencies and add virtual environment to the Python Kernel
 python -m pip install --upgrade pip
 pip install ipykernel
 python -m ipykernel install --user --name=aslr 
-## Step 5. Open Notebook  -ensure you change the kernel to the virtual environment 
+## Step 5. Open jupyet-Notebook  -ensure you change the kernel to the virtual environment 
+
 
 
