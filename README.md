@@ -76,7 +76,7 @@ https://drive.google.com/file/d/1oPvJpFdxYPBFnj1dSjuib4-MQFkhIGBy/view?usp=shari
 ## Demo Video
 * Attach the link of the working prototype video here in the markdown.
 this link of live demo
-"https://drive.google.com/file/d/1vXQqmfkNBL8b96hZ6zv-8D2892Pexeur/view?usp=sharing"
+https://drive.google.com/file/d/1vXQqmfkNBL8b96hZ6zv-8D2892Pexeur/view?usp=sharing
 ## Steps of setup the software 
 ## 1. clone this repository https://github.com/MonaaMohammed/Arabic-Sign-Language-Recognition-/blob/main/signs_detection.ipynb
 ## 2.Create a new virtual environment 
