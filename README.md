@@ -70,7 +70,8 @@ Explain the following in detail:
  we chose the RandomForestClassifier because it has the most accuracy 
  It uses the landmarks ( records consists of only digits ) Come From the Holistics model
  Then compare it with the collected data to predict the sign then return the result .  
-
+## weights of the trained model
+https://drive.google.com/file/d/1oPvJpFdxYPBFnj1dSjuib4-MQFkhIGBy/view?usp=sharing
 
 ## Demo Video
 * Attach the link of the working prototype video here in the markdown.
