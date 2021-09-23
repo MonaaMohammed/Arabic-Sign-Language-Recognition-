@@ -7,7 +7,6 @@ Team Name : ProDov
 * Team Member 1 : Mona Mohamed Abdelrhman 
 * Team Member 2 : Ahmed Mohamed Ahmed 
 
-Upload a picture of yourselves.
 
 # Toy Project
 ## Problem Statement
@@ -77,5 +76,17 @@ Explain the following in detail:
 * Attach the link of the working prototype video here in the markdown.
 this link of live demo
 "https://drive.google.com/file/d/1vXQqmfkNBL8b96hZ6zv-8D2892Pexeur/view?usp=sharing"
+## Steps of setup the software 
+## 1. clone this Steps
+## 2.Create a new virtual environment 
+python -m venv aslr
+## 3.Activate your virtual environment
+source tfod/bin/activate # Linux
+.\tfod\Scripts\activate # Windows
+## Step 4. Install dependencies and add virtual environment to the Python Kernel
+python -m pip install --upgrade pip
+pip install ipykernel
+python -m ipykernel install --user --name=aslr 
+## Step 5. Open Notebook  -ensure you change the kernel to the virtual environment 
 
 
