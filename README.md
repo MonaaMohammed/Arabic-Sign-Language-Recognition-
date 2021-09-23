@@ -87,6 +87,5 @@ python -m pip install --upgrade pip
 pip install ipykernel
 python -m ipykernel install --user --name=aslr 
 ## Step 5. Open jupyet-Notebook  -ensure you change the kernel to the virtual environment 
-
-
+https://github.com/MonaaMohammed/Arabic-Sign-Language-Recognition-/blob/main/WhatsApp%20Image%202021-09-23%20at%205.09.46%20PM.jpeg
 
